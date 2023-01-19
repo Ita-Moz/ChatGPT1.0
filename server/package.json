@@ -3,9 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "server": "nodemon server"
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
